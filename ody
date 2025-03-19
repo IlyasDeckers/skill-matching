@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php
+
+// Define base path
+define('APP_BASE_PATH', __DIR__);
+
+// Include autoloader
+require_once "vendor/autoload.php";
+
+// Use ConsoleBootstrapper to create and bootstrap the kernel
+$kernel = \Ody\Foundation\Console\ConsoleBootstrapper::kernel();
+
+// Handle the request
+$status = $kernel->handle();
+
+exit($status);

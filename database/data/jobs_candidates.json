@@ -1,0 +1,2268 @@
+{
+  "candidates": [
+    {
+      "id": 101,
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "years_experience": 7,
+      "skills": [
+        {
+          "skill_id": 1,
+          "proficiency_level": 5,
+          "years_experience": 7,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 2,
+          "proficiency_level": 4,
+          "years_experience": 5,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 4,
+          "proficiency_level": 4,
+          "years_experience": 7,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 8,
+          "proficiency_level": 3,
+          "years_experience": 4,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 10,
+          "proficiency_level": 3,
+          "years_experience": 3,
+          "last_used_date": "2024-10-15"
+        },
+        {
+          "skill_id": 13,
+          "proficiency_level": 4,
+          "years_experience": 7,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 26,
+          "proficiency_level": 5,
+          "years_experience": 7,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 29,
+          "proficiency_level": 2,
+          "years_experience": 1,
+          "last_used_date": "2024-06-20"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Samantha Lee",
+      "email": "samantha.lee@example.com",
+      "years_experience": 5,
+      "skills": [
+        {
+          "skill_id": 8,
+          "proficiency_level": 5,
+          "years_experience": 5,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 9,
+          "proficiency_level": 5,
+          "years_experience": 3,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 10,
+          "proficiency_level": 5,
+          "years_experience": 4,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 13,
+          "proficiency_level": 4,
+          "years_experience": 5,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 26,
+          "proficiency_level": 4,
+          "years_experience": 5,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 31,
+          "proficiency_level": 3,
+          "years_experience": 2,
+          "last_used_date": "2025-03-01"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Miguel Rodriguez",
+      "email": "miguel.rodriguez@example.com",
+      "years_experience": 10,
+      "skills": [
+        {
+          "skill_id": 1,
+          "proficiency_level": 5,
+          "years_experience": 10,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 2,
+          "proficiency_level": 5,
+          "years_experience": 8,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 3,
+          "proficiency_level": 5,
+          "years_experience": 6,
+          "last_used_date": "2023-12-15"
+        },
+        {
+          "skill_id": 4,
+          "proficiency_level": 4,
+          "years_experience": 10,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 5,
+          "proficiency_level": 3,
+          "years_experience": 5,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 13,
+          "proficiency_level": 3,
+          "years_experience": 10,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 26,
+          "proficiency_level": 4,
+          "years_experience": 10,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 29,
+          "proficiency_level": 4,
+          "years_experience": 2,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 30,
+          "proficiency_level": 4,
+          "years_experience": 2,
+          "last_used_date": "2025-03-01"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Priya Patel",
+      "email": "priya.patel@example.com",
+      "years_experience": 3,
+      "skills": [
+        {
+          "skill_id": 1,
+          "proficiency_level": 3,
+          "years_experience": 2,
+          "last_used_date": "2025-01-15"
+        },
+        {
+          "skill_id": 2,
+          "proficiency_level": 3,
+          "years_experience": 2,
+          "last_used_date": "2025-01-15"
+        },
+        {
+          "skill_id": 4,
+          "proficiency_level": 2,
+          "years_experience": 2,
+          "last_used_date": "2025-01-15"
+        },
+        {
+          "skill_id": 8,
+          "proficiency_level": 4,
+          "years_experience": 3,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 10,
+          "proficiency_level": 4,
+          "years_experience": 2,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 13,
+          "proficiency_level": 4,
+          "years_experience": 3,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 26,
+          "proficiency_level": 3,
+          "years_experience": 3,
+          "last_used_date": "2025-03-01"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "David Kim",
+      "email": "david.kim@example.com",
+      "years_experience": 8,
+      "skills": [
+        {
+          "skill_id": 14,
+          "proficiency_level": 5,
+          "years_experience": 8,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 15,
+          "proficiency_level": 5,
+          "years_experience": 6,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 17,
+          "proficiency_level": 4,
+          "years_experience": 5,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 18,
+          "proficiency_level": 4,
+          "years_experience": 4,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 4,
+          "proficiency_level": 3,
+          "years_experience": 8,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 8,
+          "proficiency_level": 3,
+          "years_experience": 8,
+          "last_used_date": "2025-03-01"
+        },
+        {
+          "skill_id": 13,
+          "proficiency_level": 3,
+          "years_experience": 8,
+          "last_used_date": "2024-06-15"
+        },
+        {
+          "skill_id": 26,
+          "proficiency_level": 4,
+          "years_experience": 8,
+          "last_used_date": "2025-03-01"
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": 201,
+      "title": "Senior PHP Developer",
+      "description": "We are looking for a senior PHP developer with Laravel experience to join our team.",
+      "required_skills": [
+        {
+          "skill_id": 1,
+          "importance_weight": 10,
+          "minimum_years": 5
+        },
+        {
+          "skill_id": 2,
+          "importance_weight": 8,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 4,
+          "importance_weight": 6,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 29,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 4,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 20,
+          "importance_weight": 3,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 5
+    },
+    {
+      "id": 202,
+      "title": "Frontend Developer",
+      "description": "Looking for a frontend developer with strong React skills.",
+      "required_skills": [
+        {
+          "skill_id": 8,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 7,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 9,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 26,
+          "importance_weight": 4,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 231,
+      "title": "3D Web Developer",
+      "description": "Looking for a developer to create 3D web experiences with Three.js.",
+      "required_skills": [
+        {
+          "skill_id": 109,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 110,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 10,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 94,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 93,
+          "importance_weight": 4,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 232,
+      "title": "Next.js Developer",
+      "description": "Seeking a Next.js developer for server-side rendered React applications.",
+      "required_skills": [
+        {
+          "skill_id": 100,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 70,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 37,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 26,
+          "importance_weight": 5,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 233,
+      "title": "Database Administrator",
+      "description": "Looking for a database administrator with MySQL and PostgreSQL experience.",
+      "required_skills": [
+        {
+          "skill_id": 4,
+          "importance_weight": 10,
+          "minimum_years": 5
+        },
+        {
+          "skill_id": 5,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 60,
+          "importance_weight": 8,
+          "minimum_years": 5
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 7,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 6,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 80,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 5
+    },
+    {
+      "id": 234,
+      "title": "Vue.js Developer",
+      "description": "Seeking a Vue.js developer for frontend applications.",
+      "required_skills": [
+        {
+          "skill_id": 11,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 101,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 70,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 235,
+      "title": "Symfony Developer",
+      "description": "Looking for a Symfony developer for PHP applications.",
+      "required_skills": [
+        {
+          "skill_id": 3,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 1,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 4,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 2,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 6,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 26,
+          "importance_weight": 5,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 236,
+      "title": "Django Developer",
+      "description": "Seeking a Django developer for Python web applications.",
+      "required_skills": [
+        {
+          "skill_id": 15,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 14,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 4,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 16,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 6,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 63,
+          "importance_weight": 5,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 237,
+      "title": "Scrum Master",
+      "description": "Looking for a Scrum Master to facilitate agile development processes.",
+      "required_skills": [
+        {
+          "skill_id": 32,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 31,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 33,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 26,
+          "importance_weight": 6,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 23,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 82,
+          "importance_weight": 4,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 238,
+      "title": "Angular Developer",
+      "description": "Seeking an Angular developer for enterprise applications.",
+      "required_skills": [
+        {
+          "skill_id": 12,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 8,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 8,
+          "minimum_years": 4
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 13,
+          "importance_weight": 7,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 63,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 71,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 239,
+      "title": "IoT Developer",
+      "description": "Looking for an IoT developer with experience in embedded systems and cloud connectivity.",
+      "required_skills": [
+        {
+          "skill_id": 58,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 59,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 57,
+          "importance_weight": 9,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 22,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 56,
+          "importance_weight": 6,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 14,
+          "importance_weight": 5,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 240,
+      "title": "WebSocket Specialist",
+      "description": "Seeking a developer specialized in real-time applications using WebSockets.",
+      "required_skills": [
+        {
+          "skill_id": 85,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 86,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 8,
+          "minimum_years": 4
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 37,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 67,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 241,
+      "title": "Svelte Developer",
+      "description": "Looking for a Svelte developer for efficient frontend applications.",
+      "required_skills": [
+        {
+          "skill_id": 102,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 9,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 70,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 11,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 2
+    },
+    {
+      "id": 242,
+      "title": "Frontend Build Tools Specialist",
+      "description": "Seeking a specialist in frontend build tools and infrastructure.",
+      "required_skills": [
+        {
+          "skill_id": 97,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 98,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 99,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 8,
+          "importance_weight": 7,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 5,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 243,
+      "title": "Elasticsearch Specialist",
+      "description": "Looking for an Elasticsearch specialist for search and analytics solutions.",
+      "required_skills": [
+        {
+          "skill_id": 80,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 81,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 82,
+          "importance_weight": 7,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 61,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 14,
+          "importance_weight": 5,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 65,
+          "importance_weight": 4,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 244,
+      "title": "Monitoring Specialist",
+      "description": "Seeking a specialist in monitoring and observability tools.",
+      "required_skills": [
+        {
+          "skill_id": 82,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 83,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 84,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 22,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 20,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 21,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 245,
+      "title": "Ruby on Rails Developer",
+      "description": "Looking for a Ruby on Rails developer for web applications.",
+      "required_skills": [
+        {
+          "skill_id": 88,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 87,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 4,
+          "importance_weight": 7,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 13,
+          "importance_weight": 6,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 26,
+          "importance_weight": 5,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 63,
+          "importance_weight": 4,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 246,
+      "title": "Scala Developer",
+      "description": "Seeking a Scala developer for data processing applications.",
+      "required_skills": [
+        {
+          "skill_id": 89,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 90,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 79,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 78,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 77,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 5,
+          "importance_weight": 5,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 247,
+      "title": "Tailwind CSS Specialist",
+      "description": "Looking for a frontend developer specialized in Tailwind CSS.",
+      "required_skills": [
+        {
+          "skill_id": 70,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 68,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 100,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 5,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 248,
+      "title": "Event-Driven Architecture Specialist",
+      "description": "Seeking a specialist in event-driven architecture and message queues.",
+      "required_skills": [
+        {
+          "skill_id": 67,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 77,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 65,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 40,
+          "importance_weight": 7,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 37,
+          "importance_weight": 7,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 91,
+          "importance_weight": 6,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 249,
+      "title": "NestJS Developer",
+      "description": "Looking for a NestJS developer for TypeScript-based backend applications.",
+      "required_skills": [
+        {
+          "skill_id": 39,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 37,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 38,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 6,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 62,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 250,
+      "title": "WebAssembly Developer",
+      "description": "Seeking a developer specialized in WebAssembly applications.",
+      "required_skills": [
+        {
+          "skill_id": 93,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 55,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 92,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 109,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 110,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 203,
+      "title": "Full Stack PHP/React Developer",
+      "description": "We need a full stack developer who can work with both PHP and React.",
+      "required_skills": [
+        {
+          "skill_id": 1,
+          "importance_weight": 8,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 2,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 7,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 4,
+          "importance_weight": 5,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 29,
+          "importance_weight": 4,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 20,
+          "importance_weight": 3,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 204,
+      "title": "PHP Swoole Expert",
+      "description": "Looking for a developer with deep expertise in PHP and Swoole for high-performance applications.",
+      "required_skills": [
+        {
+          "skill_id": 1,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 29,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 30,
+          "importance_weight": 8,
+          "minimum_years": 1
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 2,
+          "importance_weight": 5,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 4,
+          "importance_weight": 4,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 20,
+          "importance_weight": 6,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 205,
+      "title": "Python Data Scientist",
+      "description": "Looking for a Python developer with machine learning experience.",
+      "required_skills": [
+        {
+          "skill_id": 14,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 17,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 18,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 19,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 5,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 206,
+      "title": "DevOps Engineer",
+      "description": "Looking for a DevOps engineer to manage cloud infrastructure and CI/CD pipelines.",
+      "required_skills": [
+        {
+          "skill_id": 20,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 22,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 23,
+          "importance_weight": 9,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 21,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 26,
+          "importance_weight": 6,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 82,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 207,
+      "title": "Mobile App Developer",
+      "description": "Seeking a mobile developer to create cross-platform applications.",
+      "required_skills": [
+        {
+          "skill_id": 48,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 7,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 44,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 45,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 208,
+      "title": "UX/UI Designer",
+      "description": "Looking for a UX/UI designer with strong skills in modern design tools.",
+      "required_skills": [
+        {
+          "skill_id": 94,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 95,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 7,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 96,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 4,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 70,
+          "importance_weight": 6,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 209,
+      "title": "Java Backend Developer",
+      "description": "Seeking a Java developer with Spring and Hibernate experience.",
+      "required_skills": [
+        {
+          "skill_id": 40,
+          "importance_weight": 10,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 41,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 42,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 43,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 60,
+          "importance_weight": 7,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 74,
+          "importance_weight": 6,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 210,
+      "title": "Cybersecurity Specialist",
+      "description": "Seeking a cybersecurity specialist to protect our infrastructure and applications.",
+      "required_skills": [
+        {
+          "skill_id": 34,
+          "importance_weight": 10,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 35,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 36,
+          "importance_weight": 7,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 22,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 20,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 26,
+          "importance_weight": 4,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 211,
+      "title": "Node.js Backend Developer",
+      "description": "Looking for a Node.js developer to build scalable APIs and services.",
+      "required_skills": [
+        {
+          "skill_id": 37,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 38,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 63,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 39,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 6,
+          "importance_weight": 7,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 212,
+      "title": "Data Engineer",
+      "description": "Seeking a data engineer to build robust data pipelines and infrastructures.",
+      "required_skills": [
+        {
+          "skill_id": 14,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 17,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 79,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 77,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 78,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 60,
+          "importance_weight": 5,
+          "minimum_years": 3
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 213,
+      "title": "QA Engineer",
+      "description": "Looking for a QA engineer with experience in automated testing.",
+      "required_skills": [
+        {
+          "skill_id": 71,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 72,
+          "importance_weight": 8,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 73,
+          "importance_weight": 7,
+          "minimum_years": 1
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 8,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 14,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 63,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 214,
+      "title": ".NET Developer",
+      "description": "Seeking a .NET developer with C# and ASP.NET experience.",
+      "required_skills": [
+        {
+          "skill_id": 51,
+          "importance_weight": 10,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 52,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 54,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 53,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 4,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 5,
+          "minimum_years": 3
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 215,
+      "title": "Embedded Systems Engineer",
+      "description": "Looking for an embedded systems engineer with C/C++ experience.",
+      "required_skills": [
+        {
+          "skill_id": 55,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 56,
+          "importance_weight": 10,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 57,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 58,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 59,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 92,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 216,
+      "title": "React Native Developer",
+      "description": "Seeking a React Native developer for cross-platform mobile application development.",
+      "required_skills": [
+        {
+          "skill_id": 48,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 8,
+          "minimum_years": 4
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 9,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 103,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 44,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 217,
+      "title": "Flutter Developer",
+      "description": "Looking for a Flutter developer to build beautiful mobile applications.",
+      "required_skills": [
+        {
+          "skill_id": 49,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 50,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 44,
+          "importance_weight": 7,
+          "minimum_years": 1
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 45,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 94,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 2
+    },
+    {
+      "id": 218,
+      "title": "Go Backend Developer",
+      "description": "Seeking a Go developer for high-performance backend services.",
+      "required_skills": [
+        {
+          "skill_id": 91,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 63,
+          "importance_weight": 8,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 20,
+          "importance_weight": 7,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 21,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 65,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 77,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 219,
+      "title": "Rust Developer",
+      "description": "Looking for a Rust developer for systems programming and performance-critical applications.",
+      "required_skills": [
+        {
+          "skill_id": 92,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 55,
+          "importance_weight": 8,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 56,
+          "importance_weight": 7,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 93,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 57,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 91,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 2
+    },
+    {
+      "id": 220,
+      "title": "Kubernetes Specialist",
+      "description": "Seeking a Kubernetes specialist to manage container orchestration and cloud infrastructure.",
+      "required_skills": [
+        {
+          "skill_id": 21,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 20,
+          "importance_weight": 8,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 22,
+          "importance_weight": 7,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 23,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 91,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 65,
+          "importance_weight": 4,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 221,
+      "title": "Big Data Engineer",
+      "description": "Looking for a big data engineer with Hadoop, Spark, and Kafka experience.",
+      "required_skills": [
+        {
+          "skill_id": 77,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 78,
+          "importance_weight": 8,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 79,
+          "importance_weight": 10,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 14,
+          "importance_weight": 7,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 17,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 89,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 222,
+      "title": "Cloud Infrastructure Architect",
+      "description": "Seeking a cloud architect to design and implement scalable infrastructure on AWS.",
+      "required_skills": [
+        {
+          "skill_id": 22,
+          "importance_weight": 10,
+          "minimum_years": 5
+        },
+        {
+          "skill_id": 65,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 66,
+          "importance_weight": 8,
+          "minimum_years": 2
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 20,
+          "importance_weight": 7,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 21,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 82,
+          "importance_weight": 6,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 5
+    },
+    {
+      "id": 223,
+      "title": "Machine Learning Engineer",
+      "description": "Looking for a machine learning engineer to develop and deploy ML models.",
+      "required_skills": [
+        {
+          "skill_id": 18,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 14,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 17,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 19,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 79,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 22,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 224,
+      "title": "Frontend Architect",
+      "description": "Seeking a frontend architect to design and implement scalable React applications.",
+      "required_skills": [
+        {
+          "skill_id": 10,
+          "importance_weight": 10,
+          "minimum_years": 5
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 9,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 103,
+          "importance_weight": 8,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 100,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 69,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 97,
+          "importance_weight": 5,
+          "minimum_years": 3
+        }
+      ],
+      "years_experience_required": 5
+    },
+    {
+      "id": 225,
+      "title": "Backend Architect",
+      "description": "Looking for a backend architect to design scalable and reliable systems.",
+      "required_skills": [
+        {
+          "skill_id": 65,
+          "importance_weight": 10,
+          "minimum_years": 5
+        },
+        {
+          "skill_id": 40,
+          "importance_weight": 9,
+          "minimum_years": 5
+        },
+        {
+          "skill_id": 41,
+          "importance_weight": 8,
+          "minimum_years": 4
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 67,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 22,
+          "importance_weight": 7,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 77,
+          "importance_weight": 6,
+          "minimum_years": 2
+        }
+      ],
+      "years_experience_required": 5
+    },
+    {
+      "id": 226,
+      "title": "iOS Developer",
+      "description": "Seeking an iOS developer with Swift experience for native app development.",
+      "required_skills": [
+        {
+          "skill_id": 45,
+          "importance_weight": 10,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 46,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 7,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 47,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 94,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 71,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 227,
+      "title": "Android Developer",
+      "description": "Looking for an Android developer with Kotlin experience for native app development.",
+      "required_skills": [
+        {
+          "skill_id": 44,
+          "importance_weight": 10,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 43,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 40,
+          "importance_weight": 8,
+          "minimum_years": 4
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 94,
+          "importance_weight": 6,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 13,
+          "importance_weight": 5,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 71,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 228,
+      "title": "Fullstack JavaScript Developer",
+      "description": "Seeking a fullstack JavaScript developer with React and Node.js experience.",
+      "required_skills": [
+        {
+          "skill_id": 8,
+          "importance_weight": 10,
+          "minimum_years": 4
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 9,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 37,
+          "importance_weight": 9,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 38,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 9,
+          "importance_weight": 7,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 6,
+          "importance_weight": 6,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 4
+    },
+    {
+      "id": 229,
+      "title": "Data Visualization Developer",
+      "description": "Looking for a data visualization developer with D3.js experience.",
+      "required_skills": [
+        {
+          "skill_id": 106,
+          "importance_weight": 10,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 107,
+          "importance_weight": 9,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 8,
+          "minimum_years": 4
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 108,
+          "importance_weight": 7,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 10,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 17,
+          "importance_weight": 5,
+          "minimum_years": 1
+        }
+      ],
+      "years_experience_required": 3
+    },
+    {
+      "id": 230,
+      "title": "GraphQL API Developer",
+      "description": "Seeking a developer to build GraphQL APIs for our applications.",
+      "required_skills": [
+        {
+          "skill_id": 62,
+          "importance_weight": 10,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 37,
+          "importance_weight": 8,
+          "minimum_years": 3
+        },
+        {
+          "skill_id": 8,
+          "importance_weight": 7,
+          "minimum_years": 3
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill_id": 10,
+          "importance_weight": 6,
+          "minimum_years": 2
+        },
+        {
+          "skill_id": 6,
+          "importance_weight": 5,
+          "minimum_years": 1
+        },
+        {
+          "skill_id": 64,
+          "importance_weight": 4,
+          "minimum_years": 1
+        }
+      ]
+    }
+  ]
+}

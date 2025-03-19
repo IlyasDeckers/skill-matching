@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ODY Framework Log Viewer</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        .header {
+            background: #2c3e50;
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+
+        .content {
+            padding: 20px;
+            height: calc(100% - 120px);
+        }
+
+        #log-container {
+            height: 100%;
+        }
+
+        .footer {
+            padding: 10px 20px;
+            background: #f5f5f5;
+            border-top: 1px solid #ddd;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <h1>ODY Framework Log Viewer</h1>
+    <div class="header-actions">
+        <select id="theme-selector">
+            <option value="light">Light Theme</option>
+            <option value="dark">Dark Theme</option>
+        </select>
+    </div>
+</div>
+
+<div class="content">
+    <div id="log-container"></div>
+</div>
+
+<div class="footer">
+    <p>ODY Framework Log Viewer &copy; 2025</p>
+</div>
+
+<!-- Include the LogViewer script -->
+<script src="log-viewer.js"></script>
+
+<script>
+    // Initialize the log viewer when the page loads
+    document.addEventListener('DOMContentLoaded', () => {
+        // Create log viewer instance
+        const logViewer = new LogViewer({
+            apiUrl: 'http://127.0.0.1:9501/api/logs/recent',
+            containerSelector: '#log-container',
+            interval: 5000, // 5 seconds
+            limit: 100,
+            timeRange: '5m'
+        });
+
+        // Theme switcher
+        const themeSelector = document.getElementById('theme-selector');
+        themeSelector.addEventListener('change', () => {
+            const isDark = themeSelector.value === 'dark';
+            document.body.classList.toggle('dark-theme', isDark);
+
+            // Add dark theme styles if selected
+            if (isDark) {
+                const darkStyles = document.createElement('style');
+                darkStyles.id = 'dark-theme-styles';
+                darkStyles.textContent = `
+                        body.dark-theme {
+                            background-color: #121212;
+                            color: #e0e0e0;
+                        }
+
+                        body.dark-theme .log-viewer {
+                            border-color: #333;
+                        }
+
+                        body.dark-theme .log-controls,
+                        body.dark-theme .log-status {
+                            background: #1e1e1e;
+                            border-color: #333;
+                        }
+
+                        body.dark-theme .log-table th {
+                            background: #1e1e1e;
+                        }
+
+                        body.dark-theme .log-table td,
+                        body.dark-theme .log-table th {
+                            border-color: #333;
+                        }
+
+                        body.dark-theme .log-table tbody tr:hover {
+                            background-color: #2a2a2a;
+                        }
+
+                        body.dark-theme .footer {
+                            background: #1e1e1e;
+                            border-color: #333;
+                            color: #999;
+                        }
+
+                        body.dark-theme select,
+                        body.dark-theme button,
+                        body.dark-theme input {
+                            background: #333;
+                            color: #e0e0e0;
+                            border-color: #555;
+                        }
+                    `;
+                document.head.appendChild(darkStyles);
+            } else {
+                // Remove dark theme styles
+                const darkStyles = document.getElementById('dark-theme-styles');
+                if (darkStyles) {
+                    darkStyles.remove();
+                }
+            }
+        });
+    });
+</script>
+</body>
+</html>
